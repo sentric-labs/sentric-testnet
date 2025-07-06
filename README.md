@@ -41,15 +41,16 @@ This repo contains metadata, deployment info, and testnet configuration for the 
 
 ---
 
-## 📦 Files in This Repo
+## 📁 Files in This Repo
 
-| File                              | Description                                         |
-|-----------------------------------|-----------------------------------------------------|
-| `contract_address.txt`           | Deployed token contract address on Amoy            |
-| `assets/sntx_logo.png`           | Token icon for wallets and metadata                 |
-| `metadata/sntx_token_metadata.json` | ERC-20 token metadata (for wallets & explorers)  |
-| `docs/litepaper.md` | Protocol overview and roadmap (coming soon)        |
-
+| File / Folder                            | Description                                                  |
+|------------------------------------------|--------------------------------------------------------------|
+| `contract_address.txt`                   | Deployed token contract address on Amoy testnet              |
+| `assets/sntx_logo.png`                   | Token icon for wallets, explorers, and metadata              |
+| `metadata/sntx_token_metadata.json`      | ERC-20 token metadata (for wallets & token lists)            |
+| `metadata/sntx_token_distributions.csv`  | Snapshot of total supply allocation across known addresses   |
+| `docs/litepaper.md`                      | Protocol overview and roadmap (placeholder / draft)          |
+| `docs/tokenomics.md`                     | Detailed supply breakdown and incentive planning             |
 ---
 
 ## 💡 Next Up
