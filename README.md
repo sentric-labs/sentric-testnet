@@ -14,6 +14,21 @@ This repo contains testnet smart contract deployments, token metadata, and explo
 - **Deployed Contract Address:** 0x4Ac5299500cb03079778774e139783e374B154Bc
 
 - **Explorer:** [View on OKLink](https://www.oklink.com/amoy/address/0x4ac5Ca0496643aa37093b4811720EdD174b154Bc)
+  
+---
+
+# Token Contract Base
+
+This project uses the [3rdweb TokenERC20 v5.0.4](https://thirdweb.com/thirdweb.eth/TokenERC20/5.0.4) smart contract as the base implementation for $SNTX.
+
+- ✅ Audited and maintained by 3rdweb
+- 🛠️ Deployed via 3rdweb dashboard to Polygon Amoy
+- 🔗 [View deployed contract](https://thirdweb.com/team/sentric/Sentric-21d7bf/contract/polygon-amoy-testnet/0x4Ac5299500cb03079778774e139783e374B154Bc)
+
+This repo contains metadata, deployment info, and testnet configuration for the Sentric Token.
+
+
+
 
 ---
 
@@ -30,7 +45,7 @@ This repo contains testnet smart contract deployments, token metadata, and explo
 
 ## 💡 Next Up
 
-- 🔐 Verify contract on Amoy block explorer  
+- 🧾 Publish Litepaper (In Progress)
 - 🧾 Create token listing metadata (CMC/CG/TrustWallet)  
 - 📊 Integrate with gasless interactions (ERC-2771 / Thirdweb)  
 - 🗳️ Launch sentiment voting prototype
