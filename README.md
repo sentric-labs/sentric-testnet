@@ -1,6 +1,6 @@
 # Sentric Protocol – Testnet Deployment
 
-**Sentric ($SNTX)** is the on-chain engine for sentiment-driven analytics. Designed to measure market moods and reward transparency, Sentric transforms emotional signals into data-rich analytics.
+**Sentric ($SNTX)** is the on-chain engine for sentiment-driven analytics. Designed to measure market moods and reward transparency, Sentric transforms emotional signals into data-rich token market intelligence
 
 This repo contains testnet smart contract deployments, token metadata, and exploratory modules for the Sentric Protocol on the **Polygon Amoy** network.
 
