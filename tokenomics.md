@@ -27,7 +27,7 @@
 
 ---
 
-🚫 Minting Locked
+## 🚫 Minting Locked
 - As of July 2025, the MINTER role was fully revoked. $SNTX has a fixed testnet supply of 1B tokens.
 
 ---
