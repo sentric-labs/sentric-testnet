@@ -8,13 +8,22 @@ This repo contains testnet smart contract deployments, token metadata, and explo
 
 ## 🧪 Testnet Details
 
-- **Token Name:** Sentric Token
-- **Symbol:** `SNTX`
-- **Network:** Polygon Amoy (Testnet)
-- **Deployed Contract Address:** 0x4Ac5299500cb03079778774e139783e374B154Bc
 
-- **Explorer:** [View on OKLink](https://www.oklink.com/amoy/address/0x4ac5Ca0496643aa37093b4811720EdD174b154Bc)
-  
+- **Token Name:** Sentric Token  
+- **Symbol:** `SNTX`  
+- **Network:** Polygon Amoy (Testnet)  
+- **Deployed Contract Address:** `0x4Ac5299500cb03079778774e139783e374B154Bc`  
+- **Explorer:** [View on OKLink](https://www.oklink.com/amoy/address/0x4ac5Ca0496643aa37093b4811720EdD174b154Bc)  
+- **Base Contract:** [3rdweb TokenERC20 v5.0.4](https://thirdweb.com/thirdweb.eth/TokenERC20/5.0.4)
+
+---
+
+## 💰 Token Allocation (Testnet)
+
+- ✅ **Total Supply:** 1,000,000,000 $SNTX minted on Polygon Amoy  
+- 🏦 **Held by Sentric Reserve:**  
+  [`0xeCF372409A962176d2e52E57a54a44c8F1FF8c98`](https://oklink.com/amoy/address/0xeCF372409A962176d2e52E57a54a44c8F1FF8c98)  
+- 🔄 **Deployer Wallet:** 0 SNTX post-deployment—full supply held in reserve  
 ---
 
 # Token Contract Base
