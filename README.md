@@ -21,9 +21,10 @@ This repo contains testnet smart contract deployments, token metadata, and explo
 ## 💰 Token Allocation (Testnet)
 
 - ✅ **Total Supply:** 1,000,000,000 $SNTX minted on Polygon Amoy  
-- 🏦 **Held by Sentric Reserve:**  
+- 🏦 **Sentric Treasury (Reserve Wallet):**  
   [`0xeCF372409A962176d2e52E57a54a44c8F1FF8c98`](https://oklink.com/amoy/address/0xeCF372409A962176d2e52E57a54a44c8F1FF8c98)  
-- 🔄 **Deployer Wallet:** 0 SNTX post-deployment—full supply held in reserve  
+  *(To be migrated to a Safe multisig on mainnet for governance and custody control)*  
+- 🔄 **Deployer Wallet:** 0 SNTX post-deployment — full supply secured in treasury  
 ---
 
 # Token Contract Base
