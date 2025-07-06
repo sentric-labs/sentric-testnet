@@ -1,0 +1,22 @@
+{
+  "name": "Sentric Token",
+  "symbol": "SNTX",
+  "description": "Sentric ($SNTX) powers sentiment-driven insights and incentivized transparency on-chain. Earn, vote, and contribute to predictive analytics through verifiable signals.",
+  "image": "https://github.com/sentric-labs/sentric-testnet/blob/main/assets/sntx_logo.png",
+  "decimals": 18,
+  "external_url": "https://getsentric.xyz",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Polygon Amoy (testnet)"
+    },
+    {
+      "trait_type": "Contract",
+      "value": "0x4ac5Ca0496643aa37093b4811720EdD174b154Bc"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "Sentiment staking, reward claims, predictive voting"
+    }
+  ]
+}
