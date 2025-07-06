@@ -49,4 +49,4 @@ This is an early-stage public repo for collaboration, discussion, and experiment
 
 ---
 
->  Welcome to the emotional layer of the blockchain.
+>  On-chain market intelligence meets transparent user rewards—where data drives value.
