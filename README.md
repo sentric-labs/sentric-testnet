@@ -51,6 +51,7 @@ This repo contains metadata, deployment info, and testnet configuration for the 
 | `metadata/sntx_token_distributions.csv`  | Snapshot of total supply allocation across known addresses   |
 | `docs/litepaper.md`                      | Protocol overview and roadmap (placeholder / draft)          |
 | `docs/tokenomics.md`                     | Detailed supply breakdown and incentive planning             |
+| `docs/treasury.md`                      | Treasury structure, signer roles, Safe multisig intent and governance plan |
 ---
 
 ## 💡 Next Up
